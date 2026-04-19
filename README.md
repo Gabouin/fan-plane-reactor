@@ -1,3 +1,5 @@
+![License](https://img.shields.io/badge/License-MIT-blue.svg)
+
 # fan-plane-reactor
 I am 3d printing a fan that look a bit like a plane reactor. It's a simple project that only require basic electronics and 3D printed parts.
 I did this project because I absolutely love the look of airplane and so of plane reactors. This project was really simple (compared to my RC plane project) and to use it, you just have to plug it with an usbc cable, turn on the switch and regulate the power with the potentiometer...
