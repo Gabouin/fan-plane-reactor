@@ -1,14 +1,14 @@
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
-![CAD](https://img.shields.io/badge/CAD-Fusion%20360-orange.svg)
-![3D Printing](https://img.shields.io/badge/3D%20Printing-PLA-green.svg)
+![Project](https://img.shields.io/badge/Project-Hardware-yellow.svg)
+![Series](https://img.shields.io/badge/Series-Special_Issue-red.svg)
 
-# ✈️ Fan Plane Reactor
+# Fan Plane Reactor
 
 A 3D-printed desktop fan designed to look like a jet engine / plane reactor. This project combines basic electronics with custom 3D-printed parts to build a functional and visually striking fan that captures the aesthetic of an aircraft turbine.
 
 ---
 
-## 📖 Table of Contents
+## Table of Contents
 
 - [About the Project](#about-the-project)
 - [Demo](#demo)
@@ -23,7 +23,7 @@ A 3D-printed desktop fan designed to look like a jet engine / plane reactor. Thi
 
 ---
 
-## 📌 About the Project
+## About the Project
 
 I built this project out of my passion for aviation and the iconic look of jet engines. It is a straightforward build — much simpler than my RC plane project — requiring only salvaged electronics and 3D-printed parts in PLA.
 
@@ -34,13 +34,13 @@ I built this project out of my passion for aviation and the iconic look of jet e
 
 ---
 
-## 🎬 Demo
+## Demo
 
 ▶️ [Watch the demo on YouTube Shorts](https://youtube.com/shorts/CXMXyju0Se0)
 
 ---
 
-## 🛒 Bill of Materials
+## Bill of Materials
 
 | Item | Description | Quantity | Source | Unit Price | Total |
 |------|-------------|----------|--------|------------|-------|
@@ -55,7 +55,7 @@ I built this project out of my passion for aviation and the iconic look of jet e
 
 ---
 
-## 📁 CAD Files
+## CAD Files
 
 All CAD files are available in both **Fusion 360** (`.f3d`) and **STEP** (`.step`) formats for maximum compatibility.
 
@@ -69,7 +69,7 @@ All CAD files are available in both **Fusion 360** (`.f3d`) and **STEP** (`.step
 
 ---
 
-## 🖼️ CAD Previews
+## CAD Previews
 
 <table>
   <tr>
@@ -86,7 +86,7 @@ All CAD files are available in both **Fusion 360** (`.f3d`) and **STEP** (`.step
 
 ---
 
-## ⚡ Wiring
+## Wiring
 
 The circuit is minimal: a USB-C module powers the motor through an on/off switch and a slide potentiometer for speed control.
 
@@ -103,7 +103,7 @@ The circuit is minimal: a USB-C module powers the motor through an on/off switch
 
 ---
 
-## 🏁 Finished Build
+## Finished Build
 
 <table>
   <tr>
@@ -115,7 +115,7 @@ The circuit is minimal: a USB-C module powers the motor through an on/off switch
 
 ---
 
-## 🔧 How to Build
+## How to Build
 
 1. **Print the parts** — Print all three components (`reactor structure`, `motor adaptor`, `support`) using PLA. White and black PLA are used for contrast, but any colour works.
 2. **Assemble the motor** — Attach the printer motor to the reactor body using the motor adaptor.
@@ -125,12 +125,12 @@ The circuit is minimal: a USB-C module powers the motor through an on/off switch
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions, improvements, and remixes are welcome! Please read the [CONTRIBUTING.md](CONTRIBUTING.md) guide to get started.
