@@ -4,7 +4,23 @@
 
 # Fan Plane Reactor
 
-A 3D-printed desktop fan designed to look like a jet engine / plane reactor. This project combines basic electronics with custom 3D-printed parts to build a functional and visually striking fan that captures the aesthetic of an aircraft turbine.
+
+
+<table>
+  <tr>
+    <td width="17%">
+      <img width=100% alt="image" src="https://github.com/user-attachments/assets/4230d8c9-1605-4a20-8a78-e097826deff4" />
+    </td>
+    <td>
+      <p>
+        A 3D-printed desktop fan designed to look like a jet engine / plane reactor. This project combines basic electronics with custom 3D-printed parts to build a functional and visually striking fan that captures the aesthetic of an aircraft turbine.
+      </p>
+    </td>
+  </tr>
+</table>
+
+
+
 
 ---
 
