@@ -1,10 +1,10 @@
-# 🤝 Contributing to Fan Plane Reactor
+# Contributing to Fan Plane Reactor
 
 Thank you for your interest in contributing to this project! Whether you want to improve the design, share a remix, fix a bug in the documentation, or suggest a new feature, all contributions are welcome.
 
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [What Contributions Are Welcome](#what-contributions-are-welcome)
 - [How to Contribute](#how-to-contribute)
@@ -14,33 +14,33 @@ Thank you for your interest in contributing to this project! Whether you want to
 
 ---
 
-## ✅ What Contributions Are Welcome
+## What Contributions Are Welcome
 
 This is a hardware / maker project, so contributions can take many forms:
 
-### 🛠️ Design & CAD
+### Design & CAD
 - Improvements or optimisations to the existing 3D-printed parts (reactor body, motor adaptor, support).
 - Alternative part designs (e.g., different motor mounts, larger/smaller reactor variants).
 - New accessories or add-ons (e.g., LED ring, decorative nozzle, stand variants).
 
-### ⚡ Electronics
+### Electronics
 - Alternative wiring diagrams or circuit improvements.
 - Suggestions for additional speed control methods (e.g., PWM controller, encoder).
 - Power supply or efficiency improvements.
 
-### 📝 Documentation
+### Documentation
 - Fixing typos, grammar, or unclear instructions in the README or other docs.
 - Adding build photos, renders, or step-by-step assembly guides.
 - Translating the documentation into another language.
 
-### 🐛 Bug Reports & Issues
+### Bug Reports & Issues
 - Reporting fitment problems with the 3D-printed parts.
 - Pointing out errors in the wiring diagrams or BOM.
 - Suggesting improvements to the build instructions.
 
 ---
 
-## 🚀 How to Contribute
+## How to Contribute
 
 ### 1. Fork the repository
 
@@ -93,7 +93,7 @@ Then open a Pull Request on GitHub against the `main` branch. Fill in the PR tem
 
 ---
 
-## 🔍 Submitting a Pull Request
+## Submitting a Pull Request
 
 To keep things consistent and easy to review, please follow these guidelines:
 
@@ -104,7 +104,7 @@ To keep things consistent and easy to review, please follow these guidelines:
 
 ---
 
-## 🐛 Reporting Issues
+## Reporting Issues
 
 If you find a problem, please [open an issue](../../issues/new) and include:
 
@@ -115,7 +115,7 @@ If you find a problem, please [open an issue](../../issues/new) and include:
 
 ---
 
-## 🌟 Sharing Your Build
+## Sharing Your Build
 
 Have you built this project? We'd love to see it! You can:
 
@@ -124,7 +124,7 @@ Have you built this project? We'd love to see it! You can:
 
 ---
 
-## 📜 Code of Conduct
+## Code of Conduct
 
 This project follows a simple rule: **be respectful and constructive**. Everyone is welcome regardless of experience level. If you are new to maker projects, hardware, or GitHub — don't hesitate to ask questions in the issues.
 
